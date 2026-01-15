@@ -1,8 +1,8 @@
 ## 💫 About Me:
-Ich studiere an der [Technischen Hochschule Deggendorf Wirtschaftsinformatik](https://www.th-deg.de/wi-b) (4. Semester) und erweitere gerade meine Kenntnisse im Web Development, vor allem in HTML, CSS und JavaScript, durch ein paar praktische Projekte.Ich möchte meine Programmierfähigkeiten kontinuierlich ausbauen und moderne Technologien sowie Frameworks besser verstehen.<br><br>
+Ich studiere an der [Technischen Hochschule Deggendorf Wirtschaftsinformatik](https://www.th-deg.de/wi-b) (5. Semester) und erweitere gerade meine Kenntnisse im Web Development, vor allem in HTML, CSS und JavaScript, durch ein paar praktische Projekte. Ich möchte meine Programmierfähigkeiten kontinuierlich ausbauen und moderne Technologien sowie Frameworks besser verstehen.<br><br>
 ### 💻 Technische Fähigkeiten<br>
 **Frontend-Technologien:** HTML, CSS, JavaScript, Java<br>
-**Lernziele:** Flutter, React, Backend-Entwicklung, COBOL<br>
+**Lernziele:** Flutter, React, Backend-Entwicklung, Python<br>
 **Tools & Versionierung:** Git, GitHub, GitLab, IntelliJ<br><br>
 ### 📌 Aktuelle Projekte<br>
 **LightTravel:** Eine Packlisten-App, die hilft, minimalistisch zu packen. Nutzer können Packlisten für verschiedene Reisen und Aktivitäten erstellen, speichern und anpassen.<br>
